@@ -1,2 +1,2 @@
-![images](https://user-images.githubusercontent.com/87335182/162677752-a3022def-8669-4161-b09d-2cd76989f0f1.png)
+![1](https://user-images.githubusercontent.com/87335182/162678136-4810fcfe-df83-4d3a-ab77-92ee86a5d1dc.jpg)
 - 👋 Hi, I’m @daniertg
