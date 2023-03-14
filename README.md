@@ -5,4 +5,4 @@
 
 More Tutorial 
 
-<img src="https://i.postimg.cc/NFSQF6YD/download-1.png" alt="Description when image is not found" width="100" height="100">
+<img src="https://i.postimg.cc/NFSQF6YD/download-1.png" alt="Description when image is not found" width="30" height="30">
