@@ -5,4 +5,4 @@
 
 More Tutorial 
 
-<img src="![download (1)](https://user-images.githubusercontent.com/87335182/224923747-0c1249ec-e283-40fc-b941-7a2f8e94c613.png" alt="Description when image is not found" width="100" height="100">
+<img src="https://i.postimg.cc/NFSQF6YD/download-1.png" alt="Description when image is not found" width="100" height="100">
